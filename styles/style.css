@@ -74,6 +74,9 @@ body {
     font-size:1rem;
     font-weight: 600;
 }
+.nav-link:hover{
+    color:#777;
+}
 .journey-container{
     justify-content:space-around;
     align-items: center;
@@ -115,6 +118,11 @@ body {
     font-weight: 700;
 
 }
+
+.btn:hover{
+    color:#777;
+}
+
 .sponsor{
     max-width:1110px;
     margin:170px auto;
@@ -155,6 +163,8 @@ body {
     border-radius:8px;
     box-shadow:0 4px 10px rgba(0,0,0,0.1);
  }
+ 
+ 
  .rating{
     color: #f39c12;
    
@@ -185,6 +195,9 @@ body {
     font-weight: 700;
     border: none;
 }
+.btn-see:hover{
+    color:#777;
+}
 
 .feature-product{
     max-width:1110px;
@@ -208,6 +221,9 @@ body {
     border: none;
     font-weight: 700;
 
+}
+.btn-secondary:hover{
+    color:#777;
 }
 
 .footer{
@@ -233,4 +249,7 @@ body {
     font-size:20px;
     margin:0 10px;
     text-decoration:none;
+}
+.footer-social a:hover{
+    color:#E02C6D;
 }
