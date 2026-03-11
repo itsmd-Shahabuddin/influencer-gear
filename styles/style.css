@@ -137,6 +137,10 @@ body {
     gap: 30px;
 
  }
+ .images:hover{
+    transform:translateY(-5px);
+    transition:0.3s;
+}
  .collection-images{
     display:grid;
     grid-template-columns: repeat(3, 1fr);
